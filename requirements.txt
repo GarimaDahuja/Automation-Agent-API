@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+httpx
+requests
+pandas
+openai
+pillow
+markdown2
+beautifulsoup4
+pydub
+speechrecognition
+ffmpeg-python
+scikit-learn
+uvicorn
+easyocr
